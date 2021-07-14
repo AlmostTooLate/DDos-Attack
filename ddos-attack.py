@@ -18,12 +18,11 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 ##GREETING##
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet Hydra DDos")
 print ('''
-Author   : HA-MRX
-You Tube : https://www.youtube.com/c/HA-MRX
-github   : https://github.com/Ha3MrX
-Facebook : https://www.facebook.com/muhamad.jabar222
+Authors  : AlmostTooLate & HA-MRX
+github   : https://github.com/AlmostTooLate
+Web      : https://hydra-security.org
 ''')
 ##GREETING##
 
